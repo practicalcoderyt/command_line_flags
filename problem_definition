@@ -1,0 +1,5 @@
+I need a simple way to parse out and set command line flags such as [-l --log],
+    [-v --verbose], [-d --debug].
+
+I also need a way to allow for these flags to be set at any part of the command line
+    when I run my code.
